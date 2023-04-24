@@ -1,0 +1,217 @@
+{
+    "common":{
+        "source":"Source",
+        "rotationTime":"rotation time",
+        "radius":"radius",
+        "averageTemp":"average temp ",
+        "overView":"overView",
+        "internalStructure":"internal structure",
+        "surfaceGeology":"surface geology"
+    },
+    "planets":{
+        "mercury": "mercury",
+        "venus":"venus",
+        "earth":"earth",
+        "mars":"mars",
+        "jupiter":"jupiter",
+        "saturn":"saturn",
+        "uranus":"uranus",
+        "neptune":"neptune"
+    },
+    "about":{
+        "mercuryAbout":"Mercury is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth describe, the shortest of all the Sun's planets. Mercury is one of four terrestrial planets in the Solar System, and is a rocky body like Earth.",
+        "venusAbout": "Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the brightest natural object in Earth's night sky after the Moon, Venus can cast shadows and can be, on rare occasions, visible to the naked eye in broad daylight.",
+        "earthAbout":"Third planet from the Sun and the only known planet to harbor life. About 29.2% of Earth's surface is land with remaining 70.8% is covered with water. Earth's distance from the Sun, physical properties and geological history have allowed life to evolve and thrive.",
+        "marsAbout":"Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the Red Planet.",
+        "jupiterAbout":"Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass two and a half times that of all the other planets in the Solar System combined, but less than one-thousandth the mass of the Sun.",
+        "saturnAbout": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth. It only has one-eighth the average density of Earth.",
+        "uranusAbout":"Uranus is the seventh planet from the Sun. Its name is a reference to the Greek god of the sky, Uranus according to Greek mythology, was the great-grandfather of Ares. It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System.",
+        "neptuneAbout":"Neptune is the eighth and farthest-known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, more massive than its near-twin Uranus."
+    },
+    "sources":{
+        "mercurySource":"https://en.wikipedia.org/wiki/Mercury_(planet)",
+        "venusSource":"https://en.wikipedia.org/wiki/Venus",
+        "earthSource":"https://en.wikipedia.org/wiki/Earth",
+        "marsSource":"https://en.wikipedia.org/wiki/Mars",
+        "jupiterSource":"https://en.wikipedia.org/wiki/Jupiter",
+        "saturnSource":"https://en.wikipedia.org/wiki/Saturn",
+        "uranusSource":"https://en.wikipedia.org/wiki/Uranus",
+        "neptuneSource":"https://en.wikipedia.org/wiki/Neptune"
+    },
+    "mercuryDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "58.6 days"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "87.97 days"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "2,439.7 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "430 C"
+        }
+    ],
+    "venusDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "243 days"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "224.1 days"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "6,051.8 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "471 c"
+        }
+    ],
+    "earthDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "0.99 days"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "365.26 days"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "6,371 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "16 c"
+        }
+    ],
+    "marsDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "1.03 days"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "1.88 years"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "3,389.5 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "-28 c"
+        }
+    ],
+    "jupiterDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "9.93 hours"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "11.86 years"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "69,911 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "-108 c"
+        }
+    ],
+    "saturnDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "10.8 hours"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "29.46 years"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "58,232 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "-138 c"
+        }
+    ],
+    "uranusDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "17.2 hours"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "84 years"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "25,362"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "-195 c"
+        }
+    ],
+    "neptuneDetails": [
+        {
+            "id": 1,
+            "title": "rotation time",
+            "describe": "16.08 hours"
+        },
+        {
+            "id": 2,
+            "title": "revolution time",
+            "describe": "164.79 years"
+        },
+        {
+            "id": 3,
+            "title": "radius",
+            "describe": "24,622 km"
+        },
+        {
+            "id": 4,
+            "title": "average temp",
+            "describe": "-201 c"
+        }
+    ]
+}

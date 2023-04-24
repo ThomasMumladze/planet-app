@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #070724;
+    background-image: url("./assets/background/background-stars.svg");
+}
+
+@font-face {
+    font-family: "spartan";
+    src: url("./assets/font/LeagueSpartan-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: "antonio";
+    src: url("./assets/font/Antonio-VariableFont_wght.ttf");
+}
